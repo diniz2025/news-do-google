@@ -1,0 +1,5 @@
+{
+  "name": "DCG News Feed Admin",
+  "description": "An admin panel to manage and run a news aggregation pipeline for the insurance and related sectors. It fetches news from RSS/Atom feeds, classifies them, and offers AI-powered summarization using the Gemini API.",
+  "requestFramePermissions": []
+}
